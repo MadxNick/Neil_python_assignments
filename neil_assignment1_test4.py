@@ -6,3 +6,6 @@ studentmarks4 = 76
 studentmarks5 = 60 
 average = ((studentmarks1 + studentmarks2 + studentmarks3 + studentmarks4 + studentmarks5 )/5)
 print (average)
+
+# Checked but always take user input dont assign default values still in this questions value were given so allowed
+# marks obtained 5/5
