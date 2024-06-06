@@ -7,4 +7,4 @@ print(a*b)
 print(a/b)
 print(a%b)
 
-# GOOD CHECKED
+# GOOD CHECKED 5/5 but you have to know the meaning of this each operator too specially % Modulo
